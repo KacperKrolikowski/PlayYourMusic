@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "916309078523",
+    "project_id": "playyourmusic-24655",
+    "storage_bucket": "playyourmusic-24655.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916309078523:android:969837a538ad07412d9b5e",
+        "android_client_info": {
+          "package_name": "com.krolikowski.playyourmusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916309078523-1vqedq7d7uo4uj4u0gtmm15siesrvu66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTvNwueUVx4Bp6M1SsPXxIdWsUcKIC7T4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916309078523-1vqedq7d7uo4uj4u0gtmm15siesrvu66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
